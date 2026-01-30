@@ -7,4 +7,4 @@ What I learned this week (bullets are fine, you may include an image):
 - What I’m proud of:
   - Using my laptop at a **Swiss Chalet**
 - Next steps:
-  -don't know yet
+  - don't know yet
